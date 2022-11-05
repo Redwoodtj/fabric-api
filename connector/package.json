@@ -14,7 +14,7 @@
 	"dependencies": {
 		"cbor-sync": "^1.0.2",
 		"fabric-shim": "unstable",
-		"node-pre-gyp": "^0.10.3",
+		"node-pre-gyp": "^0.17.0",
 		"request": "^2.87.0"
 	}
 }
